@@ -20,8 +20,13 @@ body{
 .todo-input{
   width:100%;
   border:none;
+  border-radius: 10px;
+  padding:10px;
   border-bottom:1px solid lightgray;
   outline:none;
+  font-weight: 600;
+  font-size: 15px;
+  background-color:  #414040;
 }
 .todo-create-button{
   border:none;
@@ -48,7 +53,7 @@ body{
 .todo-content{
   justify-content: space-between;
   border:1px solid lightgray;
-  padding:12px 0px;
+  padding:5px 16px;
   border-radius: 8px;
   margin-top: 10px;;
 }
