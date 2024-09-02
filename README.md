@@ -15,4 +15,4 @@
 - TypeScript: A statically typed superset of JavaScript
 - Redux Toolkit: A predictable state container for JavaScript apps
 
-![TodoTypescriptReduxToolkit](./src/assets/TodoTypescriptReduxToolkit.gif)
+![Todo ReduxToolkit](https://github.com/LeylaP/TodoApp-Typesctipt-ReduxToolkit/blob/main/TodoAppTypescript/src/assets/TodoTypescriptReduxToolkit.gif)
